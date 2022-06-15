@@ -31,7 +31,7 @@ body {
 form {
   display: flex;
   flex-direction: column;
-  width: 75%;
+  width: 95%;
   max-width: 400px;
 }
 
